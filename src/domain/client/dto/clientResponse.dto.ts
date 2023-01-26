@@ -1,4 +1,3 @@
-import { PartialType } from '@nestjs/swagger';
 import { AutoMap } from '@automapper/classes';
 
 export class ClientResponseDto {
